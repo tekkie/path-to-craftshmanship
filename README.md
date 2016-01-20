@@ -46,3 +46,20 @@ yet to be written.
   For instance: when you learn a server-side web scripting language (Application
   Layer), you need to understand HTML first.
   When learning HTML, you need to understand HTTP first.
+
+
+# Structure of Each Chapter / Section
+
+Each chapter or section (henceforth called generally *unit of writing*, abv.
+UOW) must have a certain structure.
+
+- chapters start with an abstract
+- UOW start with an estimated time-to-finish
+- some UOWs start with a motivation (answering the question *why learning
+  this is important?*)
+- some UOWs have a subdivision *Common Pitfalls* which contains exclusively
+  misunderstandings commonly observed among readers
+- some UOWs have a subdivision *Frequent Questions* which contains exclusively
+  questions which have been asked more than twice by readers
+- exercises: ???
+- each chapter ends with a *Summary*
