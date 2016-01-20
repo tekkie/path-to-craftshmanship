@@ -4,6 +4,39 @@ Ideas on getting to be a software craftsman. Practical lessons.
 
 # General Principles
 
+Generations
+-----------
+
+Writing this guide is done in "generations". They will not necessarily be
+followed in order, sequentially, but intermingled, sometimes even like nested
+loops.
+
+First generation:
+
+First write this documentation just as a "meta-guide", with the finished
+structure (parts / chapters / sections) and short abstracts for each. Once
+done, this documentation can already be used by a potential reader for guiding
+his own independent research / learning process.
+
+Second generation:
+
+Each section is written by different authors in "mini feedback loops",
+peer-reviewed on their own
+
+Third generation:
+
+Being written by different authors, the wording will differ. In order to
+counteract this, one designated person will go through all parts / chapters
+/ sections and rephrase them without changing the meaning of the text.
+
+Fourth generation:
+
+Reader's feedback and integration into the guide / book.
+
+
+Writing Principles
+------------------
+
 The following are principles aimed at harmonizing the documentation which is
 yet to be written.
 
