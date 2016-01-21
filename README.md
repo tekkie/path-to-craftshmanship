@@ -2,6 +2,8 @@
 
 Ideas on getting to be a software craftsman. Practical lessons.
 
+The current repository started as an idea to put into writing the learning steps that [Georgiana](http://www.tekkie.ro/processes/the-software-craftsmanship-pyramid/) followed over her career. The notes can be consulted in a [separate file](pyramid_notes.md). Later, in a [talk on devforum.ro](https://devforum.ro/t/path-to-craftshmanship/2502) the idea of a group of contributors arised.
+
 # General Principles
 
 Generations
@@ -46,7 +48,6 @@ yet to be written.
   For instance: when you learn a server-side web scripting language (Application
   Layer), you need to understand HTML first.
   When learning HTML, you need to understand HTTP first.
-
 
 # Structure of Each Chapter / Section
 
