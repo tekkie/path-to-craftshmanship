@@ -55,20 +55,27 @@ yet to be written.
 Each chapter or section (henceforth called generally *unit of writing*, abv.
 UOW) must have a certain structure.
 
-- chapters start with an ***abstract***
-- UOW start with an ***estimated time-to-finish***
-- some UOWs start with a ***motivation*** (answering the question *why learning
+- chapters start with an *`abstract`*
+- UOW start with an *`estimated time-to-finish`*
+- some UOWs start with a *`motivation`* (answering the question *why learning
   this is important?*)
-- some UOWs have a subdivision **Common Pitfalls** which contains exclusively
+- some UOWs have a subdivision `Common Pitfalls` which contains exclusively
   misunderstandings commonly observed among readers
-- some UOWs have a subdivision **Frequent Questions** which contains exclusively
+- some UOWs have a subdivision `Frequent Questions` which contains exclusively
   questions which have been asked more than twice by readers
-- most UOWs should have a subvidision **TL;DR** which is placed near the
+- most UOWs should have a subvidision `TL;DR` which is placed near the
   beginning of the subdivision and contains the main points and ideas of
   the chapters, in a dumbed down / stupid simple formulation.
-- most UOWs should have a subdivision **Examples, Exercises and Practice** which is
+  As opposed to the abstract the TL;DR is the summary, containing the
+  compressed information, not information about the craft.
+  The summary contains more details about why and how is the chapter
+  helpful, while the TL;DR is the shortest way to explain the chapter
+  to somebody who already learned it, and in the TL;DR the use of
+  complicated -abstract- terms is allowed, if they help reduce the length
+  of the TL;DR section of the chapter.
+- most UOWs should have a subdivision `Examples, Exercises and Practice` which is
   placed near the end of each chapter/section and contains examples and
   exercises ranging from easy to difficult or *god_help_me_solve_this*,
   in order to help the reader understand how to apply the teachings in a
   real world enviroment, outside the mythical sandbox.
-- each chapter ends with a **Summary**
+- each chapter ends with a `Summary`
