@@ -65,7 +65,8 @@ UOW) must have a certain structure.
   questions which have been asked more than twice by readers
 - most UOWs should have a subvidision `TL;DR` which is placed near the
   beginning of the subdivision and contains the main points and ideas of
-  the chapters, in a dumbed down / stupid simple formulation. The *TL;DR*
+  the chapters, in a dumbed down / stupid simple formulation, using abstract
+  and complicated terms to shorten it's length to the minimum. The *TL;DR*
   should be written near the beginning of the chapter/section,and to be
   written last, since it's meant to be read by the people who want to know
   if they have already learned what the chapter/section tries to teach.
