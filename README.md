@@ -49,18 +49,26 @@ yet to be written.
   Layer), you need to understand HTML first.
   When learning HTML, you need to understand HTTP first.
 
+
 # Structure of Each Chapter / Section
 
 Each chapter or section (henceforth called generally *unit of writing*, abv.
 UOW) must have a certain structure.
 
-- chapters start with an abstract
-- UOW start with an estimated time-to-finish
-- some UOWs start with a motivation (answering the question *why learning
+- chapters start with an ***abstract***
+- UOW start with an ***estimated time-to-finish***
+- some UOWs start with a ***motivation*** (answering the question *why learning
   this is important?*)
-- some UOWs have a subdivision *Common Pitfalls* which contains exclusively
+- some UOWs have a subdivision **Common Pitfalls** which contains exclusively
   misunderstandings commonly observed among readers
-- some UOWs have a subdivision *Frequent Questions* which contains exclusively
+- some UOWs have a subdivision **Frequent Questions** which contains exclusively
   questions which have been asked more than twice by readers
-- exercises: ???
-- each chapter ends with a *Summary*
+- most UOWs should have a subvidision **TL;DR** which is placed near the
+  beginning of the subdivision and contains the main points and ideas of
+  the chapters, in a dumbed down / stupid simple formulation.
+- most UOWs should have a subdivision **Examples, Exercises and Practice** which is
+  placed near the end of each chapter/section and contains examples and
+  exercises ranging from easy to difficult or *god_help_me_solve_this*,
+  in order to help the reader understand how to apply the teachings in a
+  real world enviroment, outside the mythical sandbox.
+- each chapter ends with a **Summary**
