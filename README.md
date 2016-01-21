@@ -1,4 +1,4 @@
-# Path to Craftshmanship
+# Path to Craftsmanship
 
 Ideas on getting to be a software craftsman. Practical lessons.
 
